@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sudoku
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sudoku\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Sudoku()
+comment2.params=col\ row\ b
+comment2.target=boolean\ uniqueRow(int,\ int,\ int[][])
+comment3.params=col\ row\ b
+comment3.target=boolean\ uniqueColumn(int,\ int,\ int[][])
+comment4.params=col\ row\ b
+comment4.target=boolean\ valid(int,\ int,\ int[][])
+comment5.params=col\ row\ b
+comment5.target=boolean\ solve(int,\ int,\ int[][])
+numComments=6
